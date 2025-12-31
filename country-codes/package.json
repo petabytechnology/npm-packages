@@ -1,0 +1,23 @@
+{
+  "name": "country-codes-flags",
+  "version": "1.26.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "countries",
+    "country names",
+    "country",
+    "dial codes",
+    "countries dial codes",
+    "country dial codes",
+    "flags",
+    "country flags"
+  ],
+  "author": "Vershab Jangid",
+  "license": "ISC",
+  "type": "commonjs"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hard-disk",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hard disk",
+    "drive data",
+    "drive storage",
+    "memory",
+    "ssd",
+    "storage information",
+    "storage",
+    "npm storage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

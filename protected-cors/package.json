@@ -1,0 +1,16 @@
+{
+  "name": "protected-cors",
+  "version": "1.10.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protected-cors, cors, secure, protection"
+  ],
+  "author": "vershab jangid",
+  "license": "ISC",
+  "type": "commonjs"
+}
